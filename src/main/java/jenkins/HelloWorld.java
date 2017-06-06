@@ -7,6 +7,7 @@ public class HelloWorld {
         System.out.println("jenkins");
         System.out.println("git publisher");
         System.out.println("publish test");
+        System.out.println("merge test");
     }
 
 }
